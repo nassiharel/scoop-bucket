@@ -1,0 +1,15 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nassiharel/klim/releases/download/v0.1.1/klim_0.1.1_windows_amd64.zip",
+            "bin": [
+                "klim.exe"
+            ],
+            "hash": "3d6c6ce3b56d492506590c539a094e29cd78ccddeed864be11aa4d83437223b6"
+        }
+    },
+    "homepage": "https://github.com/nassiharel/klim",
+    "license": "MIT",
+    "description": "Productivity booster for dev tools — discover, standardise, automate, audit toolchains."
+}
