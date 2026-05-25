@@ -1,12 +1,12 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nassiharel/klim/releases/download/v0.1.3/klim_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/nassiharel/klim/releases/download/v0.1.4/klim_0.1.4_windows_amd64.zip",
             "bin": [
                 "klim.exe"
             ],
-            "hash": "93b696b7c325692f94ae5de75efad73f3963c4dcb47a796ed30301c133289850"
+            "hash": "6ccf8960af5945e65cf70d3b545500d0f0ffe095439b6cb0bc4bf54fd860a92b"
         }
     },
     "homepage": "https://github.com/nassiharel/klim",
